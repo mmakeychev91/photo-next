@@ -1,0 +1,16 @@
+.aboutContainer {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.aboutContainer h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.aboutContainer p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
